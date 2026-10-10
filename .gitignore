@@ -1,0 +1,13 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local database exports and private data
+*.dump
+*.bak
+*.log
+.env
+
+# Do not commit large/private CSV data unless intended and permitted
+# *.csv
